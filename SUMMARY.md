@@ -1,5 +1,13 @@
 # Table of contents
 
-* [Initial page](README.md)
-* [Plugin de Skyblock](plugin-de-skyblock.md)
+* [Information FrenchSky](README.md)
+* [Réglement FrenchSky](reglement-frenchsky.md)
+* [Les serveurs](les-serveurs.md)
+
+## Plugins
+
+* [Skyblock](plugins/skyblock.md)
+* [Défis](plugins/defis.md)
+* [Cultures](plugins/cultures.md)
+* [Entreprise](plugins/entreprise.md)
 

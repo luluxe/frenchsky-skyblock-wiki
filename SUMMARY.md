@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Informations FrenchSky](README.md)
-* [Réglement FrenchSky IG](reglement-frenchsky.md)
+* [Règlement FrenchSky IG](reglement-frenchsky.md)
 * [Règlement FrenchSky TeamSpeak 3](reglement-frenchsky-teamspeak-3.md)
 
 ## Serveurs <a id="fonctionnalites"></a>

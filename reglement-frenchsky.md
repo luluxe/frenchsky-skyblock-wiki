@@ -4,7 +4,7 @@ description: >-
   connaissance et de les respecter.
 ---
 
-# Réglement FrenchSky IG
+# Règlement FrenchSky IG
 
 **Règlement FrenchSky**  
   

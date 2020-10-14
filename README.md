@@ -4,7 +4,7 @@ description: >-
   du serveur !
 ---
 
-# Information FrenchSky
+# Informations FrenchSky
 
 ## **FrenchSky,**
 

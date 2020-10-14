@@ -1,4 +1,12 @@
+---
+description: >-
+  Voici quelques informations pour mieux vous aider à comprendre comment
+  fonctionne ce système de "multi-serveur"
+---
+
 # Informations
 
-A faire montrer la répartition des serveurs
+Chaque serveur a son utilité.
+
+
 

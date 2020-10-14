@@ -1,4 +1,4 @@
-# Les serveurs
+# Informations
 
-A faire
+A faire montrer la répartition des serveurs
 

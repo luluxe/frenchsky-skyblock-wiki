@@ -2,18 +2,32 @@
 
 * [Information FrenchSky](README.md)
 * [Réglement FrenchSky](reglement-frenchsky.md)
-* [Les serveurs](les-serveurs.md)
 
-## Fonctionnalités
+## Serveurs <a id="fonctionnalites"></a>
 
 ---
 
-* [Chat](chat.md)
+* [Informations](les-serveurs.md)
+* [Serveur spawn](chat.md)
+* [Serveur skyblock](serveur-skyblock.md)
+* [Serveur minage](serveur-minage.md)
+* [Serveur donjon](serveur-donjon.md)
 
-## Plugins
+## Fonctionnalités <a id="plugins"></a>
 
-* [Skyblock](plugins/skyblock.md)
-* [Défis](plugins/defis.md)
-* [Cultures](plugins/cultures.md)
-* [Entreprise](plugins/entreprise.md)
+* [Les différentes monnaies](plugins/les-differentes-monnaies.md)
+* [Récompense journalière](plugins/recompense-journaliere.md)
+* [Les Grades](plugins/les-grades.md)
+* [Les Défis](plugins/defis.md)
+* [Comment voter](plugins/comment-voter.md)
+* [Cultures modifiés](plugins/cultures.md)
+
+## Bientôt
+
+* [Entreprise](bientot/entreprise.md)
+* [GiveAll](bientot/giveall.md)
+* [Items améliorables](bientot/items-ameliorables.md)
+* [Abilités](bientot/abilites.md)
+* [Marriage](bientot/marriage.md)
+* [Market](bientot/market.md)
 

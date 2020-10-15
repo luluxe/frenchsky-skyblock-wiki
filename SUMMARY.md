@@ -32,3 +32,8 @@
 * [Marriage](bientot/marriage.md)
 * [Market](bientot/market.md)
 
+## Cosmétiques
+
+* [Pets](cosmetiques/pets.md)
+* [Préfix](cosmetiques/prefix.md)
+

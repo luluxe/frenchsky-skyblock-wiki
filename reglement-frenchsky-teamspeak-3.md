@@ -4,7 +4,7 @@ description: >-
   connaissance et de les respecter.
 ---
 
-# Règlement FrenchSky TeamSpeak 3
+# Règlement Teamspeak
 
 **Règlement TeamSpeak**  
   

@@ -11,7 +11,7 @@ description: >-
 _**Un SkyBlock unique basé sur le farming et l'économie depuis le 3 Aout 2016.**_  
 
 
-Sur ce serveur, vous y trouverez un SkyBlock inédit. Basé sur une économie testée longuement, elle a été conçue pour que jamais vous ne puissiez vous ennuyer ! Ce SkyBlock dispose de la possibilité d'avoir une île dans chaque monde _\(Overworld, nether, end\)_ ! De plus, vous pourrez vous amuser à créer vos meilleures usines avec les spawners, une nouveauté de la V2.
+Sur ce serveur, vous y trouverez un SkyBlock inédit. Basé sur une économie testée longuement, il a été conçue pour que jamais vous ne puissiez vous ennuyer ! Ce SkyBlock dispose de la possibilité d'avoir une île dans chaque monde _\(Overworld, nether, end\)_ ! De plus, vous pourrez vous amuser à créer vos meilleures usines avec les spawners, une nouveauté de la V2.
 
 Le but ? Devenez le plus riche du serveur en exploitant toutes les usines autorisées ! Spawner, farm manuel ou automatique, faites votre choix et rejoignez-nous ! Nous disposons d'une communauté qui aime la concurrence, ainsi que la possibilité de farmer sur des évènements unique !
 

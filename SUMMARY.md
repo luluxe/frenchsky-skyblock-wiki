@@ -1,8 +1,8 @@
 # Table of contents
 
 * [Informations FrenchSky](README.md)
-* [Règlement FrenchSky IG](reglement-frenchsky.md)
-* [Règlement FrenchSky TeamSpeak 3](reglement-frenchsky-teamspeak-3.md)
+* [Règlement en Jeu](reglement-frenchsky.md)
+* [Règlement Teamspeak](reglement-frenchsky-teamspeak-3.md)
 
 ## Serveurs <a id="fonctionnalites"></a>
 
@@ -20,8 +20,8 @@
 * [Récompense journalière](plugins/recompense-journaliere.md)
 * [Les Grades](plugins/les-grades.md)
 * [Les Défis](plugins/defis.md)
-* [Comment voter](plugins/comment-voter.md)
 * [Cultures modifiés](plugins/cultures.md)
+* [Comment voter](plugins/comment-voter.md)
 
 ## Bientôt
 

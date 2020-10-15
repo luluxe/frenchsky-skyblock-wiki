@@ -28,37 +28,37 @@ Vous aurez par la suite, la possibilité de voter pour 6 sites différents. Note
 
 ### **Vous pouvez voter de deux façons, via le site comme ci-dessous** :
 
-1. **Serveur-prive.net** _\(Vote disponible toute les 1h30\)_
+1. **Serveur-prive.net** _\(Vote disponible toutes les 1h30\)_
 
 ![](../.gitbook/assets/image.png)
 
 Cliquez simplement sur le captcha puis sur "Je vote !". Revenez ensuite sur la page de vote et attendez simplement que le vote se confirme, rien de plus simple ! Le procédé est quasiment le même pour chaque site.
 
-2. **Top-serveurs.net** _\(Vote disponible toute les 1h30\)_
+2. **Top-serveurs.net** _\(Vote disponible toutes les 1h30\)_
 
 ![](../.gitbook/assets/image%20%281%29.png)
 
 Cliquez simplement sur "Voter", puis encore une fois sur "Voter", puis revenez sur la page de vote et attendez que le vote se confirme.
 
-3. **Serveur-minecraft.com** _\(Vote disponible toute les 3h\)_
+3. **Serveur-minecraft.com** _\(Vote disponible toutes les 3h\)_
 
 ![](../.gitbook/assets/image%20%282%29.png)
 
 Remplissez simplement le captcha, puis cliquez sur "Voter". Revenez ensuite sur la page de vote et attendez que le vote se confirme.
 
-4. **RPG-paradize.com** _\(Vote disponible toute les 3h\)_
+4. **RPG-paradize.com** _\(Vote disponible toutes les 3h\)_
 
 ![](../.gitbook/assets/image%20%283%29.png)
 
 Remplissez simplement le captcha, puis cliquez sur "Voter". Revenez ensuite sur la page de vote et attendez que le vote se confirme.
 
-5. **Serveurs minecraft.org** _\(Vote disponible toute les 24h\)_
+5. **Serveurs minecraft.org** _\(Vote disponible toutes les 24h\)_
 
 ![](../.gitbook/assets/image%20%284%29.png)
 
 Cliquez simplement sur "VOTER POUR FRENCHSKY", puis une fenêtre apparaîtra et remplissez le captcha puis cliquez sur "CONFIRMER LE VOTE". Revenez ensuite sur la page de vote et attendez que le vote se confirme.
 
-6. **Serveurs-minecraft.org** _\(Vote disponible toute les 24h\)_
+6. **Serveurs-minecraft.org** _\(Vote disponible toutes les 24h\)_
 
 ![](../.gitbook/assets/image%20%285%29.png)
 

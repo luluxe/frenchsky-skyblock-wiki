@@ -1,8 +1,10 @@
 # Serveur donjon
 
-A faire
+Rejoindre /dungeon
 
-/donjon /donjon list
+Voir la liste /dungeon list
+
+
 
 explication des récompenses
 

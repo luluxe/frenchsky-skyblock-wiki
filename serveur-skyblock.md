@@ -1,6 +1,10 @@
 # Serveur skyblock
 
-A faire /skyblock /skyblock list
+Rejoindre /skyblock
+
+Voir la liste /skyblock list
+
+
 
 Et toutes les commandes /is a expliquer
 

@@ -1,6 +1,10 @@
 # Serveur spawn
 
-A faire /spawn
+Rejoindre /spawn
+
+Voir la liste des spawn /spawn list
+
+
 
 Serveur où il y a les coffres \(comment les ouvrir etc\)
 

@@ -1,8 +1,10 @@
 # Serveur minage
 
-A faire
+Rejoindre /mining
 
-/mining /mining list
+Voir la liste /mining list
+
+
 
 Description des trois mondes \(celui de base, end, nether\)
 

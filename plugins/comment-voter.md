@@ -22,9 +22,11 @@ Vous pourrez récupérer vos clefs de votes en faisant la commande /key get vote
 850 Votes = +200 Tokens  
 _**À noter que les paliers sont cumulables.**_
 
+{% hint style="info" %}
 Tout d'abord, il faudra que vous alliez sur le site et aller dans la section "vote".  
 Entrez le pseudonyme que vous avez en jeu, puis cliquez sur "voter".  
 Vous aurez par la suite, la possibilité de voter pour 6 sites différents. Notez bien que chaque site à son propre cooldown après chaque vote.
+{% endhint %}
 
 ### **Vous pouvez voter de deux façons, via le site comme ci-dessous** :
 
@@ -32,43 +34,57 @@ Vous aurez par la suite, la possibilité de voter pour 6 sites différents. Note
 
 ![](../.gitbook/assets/image.png)
 
+{% hint style="success" %}
 Cliquez simplement sur le captcha puis sur "Je vote !". Revenez ensuite sur la page de vote et attendez simplement que le vote se confirme, rien de plus simple ! Le procédé est quasiment le même pour chaque site.
+{% endhint %}
 
 2. **Top-serveurs.net** _\(Vote disponible toutes les 1h30\)_
 
 ![](../.gitbook/assets/image%20%281%29.png)
 
+{% hint style="success" %}
 Cliquez simplement sur "Voter", puis encore une fois sur "Voter", puis revenez sur la page de vote et attendez que le vote se confirme.
+{% endhint %}
 
 3. **Serveur-minecraft.com** _\(Vote disponible toutes les 3h\)_
 
 ![](../.gitbook/assets/image%20%282%29.png)
 
+{% hint style="success" %}
 Remplissez simplement le captcha, puis cliquez sur "Voter". Revenez ensuite sur la page de vote et attendez que le vote se confirme.
+{% endhint %}
 
 4. **RPG-paradize.com** _\(Vote disponible toutes les 3h\)_
 
 ![](../.gitbook/assets/image%20%283%29.png)
 
+{% hint style="success" %}
 Remplissez simplement le captcha, puis cliquez sur "Voter". Revenez ensuite sur la page de vote et attendez que le vote se confirme.
+{% endhint %}
 
 5. **Serveurs minecraft.org** _\(Vote disponible toutes les 24h\)_
 
 ![](../.gitbook/assets/image%20%284%29.png)
 
+{% hint style="success" %}
 Cliquez simplement sur "VOTER POUR FRENCHSKY", puis une fenêtre apparaîtra et remplissez le captcha puis cliquez sur "CONFIRMER LE VOTE". Revenez ensuite sur la page de vote et attendez que le vote se confirme.
+{% endhint %}
 
 6. **Serveurs-minecraft.org** _\(Vote disponible toutes les 24h\)_
 
 ![](../.gitbook/assets/image%20%285%29.png)
 
+{% hint style="success" %}
 Descendez un peu la page, jusqu'à voir "VOTER POUR FRENCH SKY". Cliquez dessus, une fenêtre s'ouvrira, remplissez le captcha et cliquez sur "Ok". Revenez ensuite sur la page de vote et attendez que le vote se confirme.
+{% endhint %}
 
 ### **Ou bien directement en jeu, avec la commande /vote** :
 
 \[Insérer un screen du /vote\]
 
+{% hint style="success" %}
 Il vous suffira de cliquer sur les minecarts, puis de cliquer sur les liens dans le chat pour voter, vous n'aurez pas besoin de passer par le site de FrenchSky. Vos récompenses seront distribuées de la même façon.
+{% endhint %}
 
-Et voilà ! Vous venez de voter pour FrenchSky ! Merci pour votre soutien et profitez bien de vos récompenses !😉
+_**Et voilà ! Vous venez de voter pour FrenchSky ! Merci pour votre soutien et profitez bien de vos récompenses !**_😉_\*\*\*\*_
 

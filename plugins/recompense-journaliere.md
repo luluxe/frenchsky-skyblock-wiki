@@ -14,15 +14,12 @@ Vous pouvez **récupérer ces récompenses sur mobile** grâce aux applications 
 
 
 {% hint style="info" %}
-dfdsfdsf
+
 {% endhint %}
 
-```text
-<details> 
-  <summary>Q1: What is the best Language in the World? </summary>
-   A1: JavaScript 
-</details>
-```
+
+
+
 
 
 

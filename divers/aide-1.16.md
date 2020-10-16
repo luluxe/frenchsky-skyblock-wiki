@@ -1,14 +1,25 @@
 ---
-description: Aide pour l'utilisation de la 1.16
+description: Aide pour l'utilisation de la 1.16 sur le serveur.
 ---
 
-# Aide 1.16
+# Aides version 1.16
 
-Si vous vous connectez sur un serveur en 1.11.2 comme le Alpha ou le Gamma vous serez surement kick quand vous écrirez dans le chat donc repasser en 1.11.2
+## Informations basiques
 
-En 1.16 il n'est plus possible de Crtl + A son message mais vous pouvez pour remplacer faire Ctrl + Shift flèche jusqu'a que tous le message soit sélectionner pour ensuite Ctrl C
+Si vous voulez **rejoindre le serveur Alpha/Gamma**, la **version conseillée est la 1.11.2.**
 
-Si vous aviez l'habitude de d'appuyer sur la touche "/" pour ouvrir le chat avec un / directement mis il a été déplacer en 1.16 sur la touche "!" il faudra donc faire le changement dans les contrôles si vous voulez revenir comme avant.
+En revanche, si **vous souhaitez participer au serveur Bêta de la V2** pour nous apporter votre aide, **il faudra passer par la 1.16.3**.
+
+{% hint style="info" %}
+**Vous aurez énormément de bugs si vous rejoignez les serveurs Alpha/Gamma en 1.16.3.  
+Vous ne pourrez pas rejoindre le serveur Bêta de la V2 en 1.11.2, la version de ce serveur étant 1.16.3.**
+{% endhint %}
+
+## Petits rappels & astuces concernant Minecraft en 1.16
+
+Vous l'aurez sans doute remarqué si vous vous êtes déjà connecté au serveur, **il vous est impossible de Ctrl + A votre message pour ensuite le Ctrl + C** _\(copier\)_, **vous devrez maintenir Ctrl + Shift et appuyer sur la flèche de gauche pour sélectionner votre message**, **puis faire Ctrl + C**.
+
+Autre petite chose, **les touches sont réinitialisées lors du passage de Minecraft en 1.16**. Pour **ouvrir le chat avec directement** "**/**" dans le chat, **il faudra appuyer sur la touche par défaut qui est** "**!**" désormais, **ou bien configurer directement cette touche** dans les contrôles.
 
 
 

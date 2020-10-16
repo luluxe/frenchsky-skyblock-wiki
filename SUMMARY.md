@@ -25,7 +25,7 @@
 
 ## Divers
 
-* [Aide 1.16](divers/aide-1.16.md)
+* [Aides version 1.16](divers/aide-1.16.md)
 * [GiveAll](divers/giveall.md)
 * [Récompense journalière](divers/recompense-journaliere.md)
 * [Marriage](divers/marriage.md)

@@ -21,9 +21,9 @@ Une fois que vous avez **amassé assez d'argent**, **passez au grade supérieur*
 
 ### Les houes de ventes
 
-Marre de vendre vos items inventaire par inventaire ? C'est très simple utilisé une houes qui peux vendre très rapidement vos coffres ou coffres infini.
-
-Elle n'ont pas toutes les même caractéristiques elle peuvent vendre un nombre limité d'item par utilisation et elle ont un nombre d'utilisation maximum.
+**Nouveauté de la V2, les houes de ventes !**  
+Il est vrai que stocker ses items était long et fastidieux, tout comme la vente de ces derniers. Désormais, vous pourrez **obtenir des houes de ventes** dans le coffre mystère, vote, épic ! Il y en a également à votre disposition dans le /bs pevent. **Un clic droit sur votre coffre** **suffira à vendre** les items qui y sont !  
+**Chaque houe dispose de ses caractéristiques**. Elles **n'auront pas toutes le même nombre d'utilisation**, **ou bien le même nombre d'item vendue par utilisation**.
 
 ### Liste & prix des défis
 

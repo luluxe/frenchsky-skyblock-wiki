@@ -4,13 +4,18 @@ description: Voici quelques informations concernant les défis.
 
 # Défis
 
-L'économie de FrenchSky se base sur des défis répétables.
+{% hint style="success" %}
+### **L'économie de FrenchSky se base sur des défis répétables !**
+{% endhint %}
 
-A votre arrivée sur le serveur, vous serez Débutant. Pour vous faire de l'argent, quoi de mieux que des défis répétables à l'infinis ? Accéder à vos défis via la commande "/d", et farmez les ressources qui s'y trouvent ! Vous gagnerez un montant d'argent à chaque bloc cassé ou bien à chaque mob tué, et vous pourrez en gagner une nouvelle fois en revendant la ressource dans vos défis !
+À votre arrivée sur le serveur, **vous aurez le grade débutant**. Pour **vous faire de l'argent**, quoi de mieux que **des défis répétables à l'infini** ?  
+**Accédez à vos défis via la commande** "**/d**" et **farmez les ressources qui s'y trouvent** ! Vous gagnerez **un montant d'argent à chaque bloc cassé** ou bien **à chaque mob tué**, et vous pourrez **en gagner une nouvelle fois en vendant** la ressource dans vos défis !
 
-Une fois que vous avez amassé assez d'argent, passez au niveau supérieur ! Il vous suffit de cliquer sur l'étoile du nether pour découvrir le grade suivant. Vous obtiendrez des nouveaux items à farmer, des prix plus haut ainsi qu'une récompense de passage de grade, sans oublier biensûr, le préfix de votre grade qui sera affiché dans le t'chat ! Evidemment, le grade d'après sera plus onéreux que le précédent, ce qui donne des grades de plus en plus compliqué à atteindre, mais également des prix et items qui rapporteront de plus en plus d'argent !
+Une fois que vous avez **amassé assez d'argent**, **passez au grade supérieur** ! Il vous suffit de cliquer sur l'étoile du nether pour découvrir le grade suivant. Vous obtiendrez **des nouveaux items à farmer**, **des prix plus haut** ainsi que **des récompenses de passage de grade**, sans oublier bien sûr, **le préfix de votre grade qui sera affiché dans le chat** ! Évidemment, **le grade d'après sera plus onéreux** que le précédent, ce qui donne des grades de plus en plus compliqués à atteindre, mais également **des prix et items qui rapporteront de plus en plus d'argent** !
 
-Voici la liste des 27 premiers grades de FrenchSky, étant donné qu'ils sont d'ors et déjà découvert par de nombreux joueurs, nous vous communiquons les items qu'il est possible de farmer, avec leurs prix et leurs récompenses de passage de grade !
+{% hint style="warning" %}
+#### Voici la liste des 27 premiers grades de FrenchSky, étant donné qu'ils sont d'ors et déjà découverts par de nombreux joueurs, nous vous communiquons les items qu'il est possible de farmer, avec leurs prix et leurs récompenses de passage de grade !
+{% endhint %}
 
 {% tabs %}
 {% tab title="Débutant" %}

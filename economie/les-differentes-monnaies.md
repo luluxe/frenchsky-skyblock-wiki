@@ -1,3 +1,9 @@
+---
+description: >-
+  Voici un descriptif des différentes monnaies présentes sur le serveur avec
+  leurs utilités.
+---
+
 # Les différentes monnaies
 
 ## 

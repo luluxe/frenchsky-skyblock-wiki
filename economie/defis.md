@@ -19,6 +19,12 @@ Une fois que vous avez **amassé assez d'argent**, **passez au grade supérieur*
 #### Voici la liste des 27 premiers grades de FrenchSky, étant donné qu'ils sont d'ors et déjà découverts par de nombreux joueurs, nous vous communiquons les items qu'il est possible de farmer, avec leurs prix et leurs récompenses de passage de grade !
 {% endhint %}
 
+### Les houes de ventes
+
+Marre de vendre vos items inventaire par inventaire ? C'est très simple utilisé une houes qui peux vendre très rapidement vos coffres ou coffres infini.
+
+Elle n'ont pas toutes les même caractéristiques elle peuvent vendre un nombre limité d'item par utilisation et elle ont un nombre d'utilisation maximum.
+
 ### Liste & prix des défis
 
 {% tabs %}

@@ -12,8 +12,6 @@ description: >-
 
 Comme vous l'aurez sans doute remarqué à l'arrivée sur le serveur, le scoreboard dispose de **trois monnaies différentes**. Elles ont toutes les trois **des utilités différentes**, certaines s'obtiennent **en farmant normalement**, d'autres **en faisant des quêtes** ou **en les récupérant via des évènements**, ou encore **en les achetant sur la boutique** directement.
 
-## **aaa**
-
 {% hint style="warning" %}
 ####   ****1. **Les FrenchCoins**
 {% endhint %}

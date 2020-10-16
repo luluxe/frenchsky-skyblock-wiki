@@ -12,21 +12,27 @@ Ils sont accessible via le Shop Spécial /bs shops. Vous ne pouvez les poser uni
 
 ![](../.gitbook/assets/screenshot_3.png)
 
-Sur la ligne du haut vous aurez la possibilité d'améliorer chaque caractéristiques de votre Hopper et sur la ligne du bas l'action pour utilisé ou non cette caractéristique.
+Sur la ligne du haut vous aurez la possibilité d'améliorer chaque caractéristiques de votre Hopper et sur la ligne du bas les actions pour configurer votre hopper.
 
 ## Caractéristiques
 
-### Liaison
+### Les liaisons
 
-Permet de lié ce hopper directement à un autre hopper ou coffre, cela permet que le hopper envois ces items dans un autre contenant a distance ce qui évite de faire des ligne de hoppers.
+Permet de lié ce hopper directement à un autre hopper ou coffre, cela permet que le hopper envois ces items dans un autre contenant à distance ce qui évite de faire des ligne de hoppers à rallonge.
 
-Vous pouvez l'améliorer pour envoyer dans items dans plusieurs contenant en même temps.
-
-### Transfert
-
-
-
-### Aspiration
+Vous pouvez l'améliorer pour augmenter le nombre de liaison pour envoyer donc des items dans plusieurs contenant en même temps.
 
 ### Distance de liaison
+
+Vous pouvez améliorer cette caractéristique pour permettre aux liaisons entre hopper de se faire sur de grande distance.
+
+### Le taux de transfert
+
+C'est la quantité d'items que le hopper peux transmettre par seconde. En l'améliorant on augmente ainsi son débit.
+
+### L'aspiration
+
+Cela permet d'aspirer les items à distance et pas que ceux qui sont placé au dessus du hopper. Ce qui peux être très pratique pour diminuer le nombre de hopper. L'améliorer permet de faire grandir le rayon d'aspiration
+
+Il est aussi possible de choisir un filtre pour n'aspirer que les items voulu et éviter d'aspirer tout item qui tombe au sol.
 

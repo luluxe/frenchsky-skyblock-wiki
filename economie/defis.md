@@ -274,15 +274,195 @@ Herbes aquatiques** :
 {% endtab %}
 
 {% tab title="Major" %}
+{% hint style="info" %}
+Grade **Major**
+{% endhint %}
 
+**Chairs putréfiées** \| Prix » **0 FC  
+Squelettes** :  
+  ****- **Os** \| Prix » **0 FC**  
+  - **Flèches** \| Prix » **0 FC  
+Poulets** :  
+  - **Poulets crus** \| Prix » **0 FC**  
+  - **Poulets rôtis** \| ****Prix » **0 FC**  
+  - **Plumes** \| ****Prix ****» **0 FC  
+Pommes** \| ****Prix ****» **0 FC  
+Bois de sapin** & **bois d'acajou** \| ****Prix ****» **0 FC  
+Bois de bouleau** & **bois de chêne** \| ****Prix ****» **0 FC  
+Bois d'acacia** \| Prix ****» **0 FC  
+Bois de chêne noir** \| Prix ****» **0 FC  
+Pastèques** :  
+  - **Pastèques** \| Prix » **0 FC**  
+  - **Blocs de pastèque** \| Prix » **0 FC**  
+  - **Citrouilles** \| Prix » **0 FC**  
+**Blé** :  
+  - **Blés** \| Prix » **0 FC**  
+  - **Graines de blé** \| Prix » **0 FC**  
+**Pierres** :  
+  - **Pierres** \| Prix » **0 FC**  
+  - **Roches** \| Prix » **0 FC**  
+**Cactus** :  
+  - **Cactus** \| Prix » **0 FC**  
+  - **Cactus cuit** \| Prix » **0 FC**  
+**Boules de slime** \| Prix » **0 FC**  
+**Araignées** :  
+  - **Yeux d'araignées** \| Prix » **0 FC**  
+  - **Ficelles** \| Prix » **0 FC**  
+**Cochons** :  
+  - **Côtelettes de porc cru** \| Prix » **0 FC**  
+  - **Côtelettes de porc cuit** \| Prix » **0 FC**  
+**Glaces** \| Prix » **0 FC**  
+**Feuilles** _\(tout type\)_ \| Prix » **0 FC**  
+**Fèves de cacao** \| Prix » **0 FC**  
+**Carottes** \| Prix » **0 FC  
+Herbes aquatiques** :  
+  - **Herbes aquatiques** \| Prix » **0 FC**  
+  - **Algues** \| Prix » **0 FC**  
+  - **Algues séchées** \| Prix » **0 FC**»  
+**Bambous et cannes à sucre** :  
+  - **Cannes à sucre** \| Prix » **0 FC**  
+  - **Bambous** \| Prix » **0 FC**
+
+{% hint style="success" %}
+**Grade suivant = 25 000 FrenchCoins**
+{% endhint %}
+
+![](../.gitbook/assets/image%20%2816%29.png)
 {% endtab %}
 
 {% tab title="Maître" %}
+{% hint style="info" %}
+Grade **Maître**
+{% endhint %}
 
+**Chairs putréfiées** \| Prix » **0 FC  
+Squelettes** :  
+  ****- **Os** \| Prix » **0 FC**  
+  - **Flèches** \| Prix » **0 FC  
+Poulets** :  
+  - **Poulets crus** \| Prix » **0 FC**  
+  - **Poulets rôtis** \| ****Prix » **0 FC**  
+  - **Plumes** \| ****Prix ****» **0 FC  
+Pommes** \| ****Prix ****» **0 FC  
+Bois de sapin** & **bois d'acajou** \| ****Prix ****» **0 FC  
+Bois de bouleau** & **bois de chêne** \| ****Prix ****» **0 FC  
+Bois d'acacia** \| Prix ****» **0 FC  
+Bois de chêne noir** \| Prix ****» **0 FC  
+Pastèques** :  
+  - **Pastèques** \| Prix » **0 FC**  
+  - **Blocs de pastèque** \| Prix » **0 FC**  
+  - **Citrouilles** \| Prix » **0 FC**  
+**Blé** :  
+  - **Blés** \| Prix » **0 FC**  
+  - **Graines de blé** \| Prix » **0 FC**  
+**Pierres** :  
+  - **Pierres** \| Prix » **0 FC**  
+  - **Roches** \| Prix » **0 FC**  
+**Cactus** :  
+  - **Cactus** \| Prix » **0 FC**  
+  - **Cactus cuit** \| Prix » **0 FC**  
+**Boules de slime** \| Prix » **0 FC**  
+**Araignées** :  
+  - **Yeux d'araignées** \| Prix » **0 FC**  
+  - **Ficelles** \| Prix » **0 FC**  
+**Cochons** :  
+  - **Côtelettes de porc cru** \| Prix » **0 FC**  
+  - **Côtelettes de porc cuit** \| Prix » **0 FC**  
+**Glaces** \| Prix » **0 FC**  
+**Feuilles** _\(tout type\)_ \| Prix » **0 FC**  
+**Fèves de cacao** \| Prix » **0 FC**  
+**Carottes** \| Prix » **0 FC  
+Herbes aquatiques** :  
+  - **Herbes aquatiques** \| Prix » **0 FC**  
+  - **Algues** \| Prix » **0 FC**  
+  - **Algues séchées** \| Prix » **0 FC**»  
+**Bambous et cannes à sucre** :  
+  - **Cannes à sucre** \| Prix » **0 FC**  
+  - **Bambous** \| Prix » **0 FC**  
+**Nether** :  
+  - **Roches du nether** \| Prix » **0 FC**  
+  - **Briques du nether** \| Prix » **0 FC**  
+**Charbons** :  
+  - **Charbons de bois** \| Prix » **0 FC**  
+  - **Charbons** \| Prix » **0 FC**  
+**Bouteilles d'expérience** \| Prix » **0 FC**
+
+{% hint style="success" %}
+**Grade suivant = 75 000 FrenchCoins**
+{% endhint %}
+
+![](../.gitbook/assets/image%20%2819%29.png)
 {% endtab %}
 
 {% tab title="Farmeur" %}
+{% hint style="info" %}
+Grade **Farmeur**
+{% endhint %}
 
+**Chairs putréfiées** \| Prix » **0 FC  
+Squelettes** :  
+  ****- **Os** \| Prix » **0 FC**  
+  - **Flèches** \| Prix » **0 FC  
+Poulets** :  
+  - **Poulets crus** \| Prix » **0 FC**  
+  - **Poulets rôtis** \| ****Prix » **0 FC**  
+  - **Plumes** \| ****Prix ****» **0 FC  
+Pommes** \| ****Prix ****» **0 FC  
+Bois de sapin** & **bois d'acajou** \| ****Prix ****» **0 FC  
+Bois de bouleau** & **bois de chêne** \| ****Prix ****» **0 FC  
+Bois d'acacia** \| Prix ****» **0 FC  
+Bois de chêne noir** \| Prix ****» **0 FC  
+Pastèques** :  
+  - **Pastèques** \| Prix » **0 FC**  
+  - **Blocs de pastèque** \| Prix » **0 FC**  
+  - **Citrouilles** \| Prix » **0 FC**  
+**Blé** :  
+  - **Blés** \| Prix » **0 FC**  
+  - **Graines de blé** \| Prix » **0 FC**  
+**Pierres** :  
+  - **Pierres** \| Prix » **0 FC**  
+  - **Roches** \| Prix » **0 FC**  
+**Cactus** :  
+  - **Cactus** \| Prix » **0 FC**  
+  - **Cactus cuit** \| Prix » **0 FC**  
+**Boules de slime** \| Prix » **0 FC**  
+**Araignées** :  
+  - **Yeux d'araignées** \| Prix » **0 FC**  
+  - **Ficelles** \| Prix » **0 FC**  
+**Cochons** :  
+  - **Côtelettes de porc cru** \| Prix » **0 FC**  
+  - **Côtelettes de porc cuit** \| Prix » **0 FC**  
+**Glaces** \| Prix » **0 FC**  
+**Feuilles** _\(tout type\)_ \| Prix » **0 FC**  
+**Fèves de cacao** \| Prix » **0 FC**  
+**Carottes** \| Prix » **0 FC  
+Herbes aquatiques** :  
+  - **Herbes aquatiques** \| Prix » **0 FC**  
+  - **Algues** \| Prix » **0 FC**  
+  - **Algues séchées** \| Prix » **0 FC**»  
+**Bambous et cannes à sucre** :  
+  - **Cannes à sucre** \| Prix » **0 FC**  
+  - **Bambous** \| Prix » **0 FC**»  
+**Moutons** :  
+  - **Moutons crus** \| Prix » **0 FC**  
+  - **Moutons cuis** \| Prix » **0 FC**  
+**Nether** :  
+  - **Roches du nether** \| Prix » **0 FC**  
+  - **Briques du nether** \| Prix » **0 FC**  
+**Charbons** :  
+  - **Charbons de bois** \| Prix » **0 FC**  
+  - **Charbons** \| Prix » **0 FC**  
+**Bouteilles d'expérience** \| Prix » **0 FC**  
+**Pommes de terre** :  
+  - **Pommes de terre** \| Prix » **0 FC**  
+  - **Pommes de terre cuites** \| Prix » **0 FC**  
+  - **Pommes de terre empoisonnées** \| Prix » **0 FC**
+
+{% hint style="success" %}
+**Grade suivant = 150 000 FrenchCoins**
+{% endhint %}
+
+![](../.gitbook/assets/image%20%2821%29.png)
 {% endtab %}
 {% endtabs %}
 
@@ -290,39 +470,642 @@ Herbes aquatiques** :
 
 {% tabs %}
 {% tab title="SkyBird" %}
-Grade Débutant :
+{% hint style="info" %}
+Grade **SkyBird**
+{% endhint %}
+
+**Chairs putréfiées** \| Prix » **0 FC  
+Squelettes** :  
+  ****- **Os** \| Prix » **0 FC**  
+  - **Flèches** \| Prix » **0 FC  
+Poulets** :  
+  - **Poulets crus** \| Prix » **0 FC**  
+  - **Poulets rôtis** \| ****Prix » **0 FC**  
+  - **Plumes** \| ****Prix ****» **0 FC  
+Pommes** \| ****Prix ****» **0 FC  
+Bois de sapin** & **bois d'acajou** \| ****Prix ****» **0 FC  
+Bois de bouleau** & **bois de chêne** \| ****Prix ****» **0 FC  
+Bois d'acacia** \| Prix ****» **0 FC  
+Bois de chêne noir** \| Prix ****» **0 FC  
+Pastèques** :  
+  - **Pastèques** \| Prix » **0 FC**  
+  - **Blocs de pastèque** \| Prix » **0 FC**  
+  - **Citrouilles** \| Prix » **0 FC**  
+**Blé** :  
+  - **Blés** \| Prix » **0 FC**  
+  - **Graines de blé** \| Prix » **0 FC**  
+**Pierres** :  
+  - **Pierres** \| Prix » **0 FC**  
+  - **Roches** \| Prix » **0 FC**  
+**Cactus** :  
+  - **Cactus** \| Prix » **0 FC**  
+  - **Cactus cuit** \| Prix » **0 FC**  
+**Boules de slime** \| Prix » **0 FC**  
+**Araignées** :  
+  - **Yeux d'araignées** \| Prix » **0 FC**  
+  - **Ficelles** \| Prix » **0 FC**  
+**Cochons** :  
+  - **Côtelettes de porc cru** \| Prix » **0 FC**  
+  - **Côtelettes de porc cuit** \| Prix » **0 FC**  
+**Glaces** \| Prix » **0 FC**  
+**Feuilles** _\(tout type\)_ \| Prix » **0 FC**  
+**Fèves de cacao** \| Prix » **0 FC**  
+**Carottes** \| Prix » **0 FC  
+Herbes aquatiques** :  
+  - **Herbes aquatiques** \| Prix » **0 FC**  
+  - **Algues** \| Prix » **0 FC**  
+  - **Algues séchées** \| Prix » **0 FC**»  
+**Bambous et cannes à sucre** :  
+  - **Cannes à sucre** \| Prix » **0 FC**  
+  - **Bambous** \| Prix » **0 FC**»  
+**Moutons** :  
+  - **Moutons crus** \| Prix » **0 FC**  
+  - **Moutons cuis** \| Prix » **0 FC**  
+**Nether** :  
+  - **Roches du nether** \| Prix » **0 FC**  
+  - **Briques du nether** \| Prix » **0 FC**  
+**Charbons** :  
+  - **Charbons de bois** \| Prix » **0 FC**  
+  - **Charbons** \| Prix » **0 FC**  
+**Bouteilles d'expérience** \| Prix » **0 FC**  
+**Pommes de terre** :  
+  - **Pommes de terre** \| Prix » **0 FC**  
+  - **Pommes de terre cuites** \| Prix » **0 FC**  
+  - **Pommes de terre empoisonnées** \| Prix » **0 FC**
+
+{% hint style="success" %}
+**Grade suivant = 300 000 FrenchCoins**
+{% endhint %}
+
+![](../.gitbook/assets/image%20%2817%29.png)
 {% endtab %}
 
 {% tab title="SkyRabbit" %}
+{% hint style="info" %}
+Grade **SkyRabbit**
+{% endhint %}
 
+**Chairs putréfiées** \| Prix » **0 FC  
+Squelettes** :  
+  ****- **Os** \| Prix » **0 FC**  
+  - **Flèches** \| Prix » **0 FC  
+Poulets** :  
+  - **Poulets crus** \| Prix » **0 FC**  
+  - **Poulets rôtis** \| ****Prix » **0 FC**  
+  - **Plumes** \| ****Prix ****» **0 FC  
+Pommes** \| ****Prix ****» **0 FC  
+Bois de sapin** & **bois d'acajou** \| ****Prix ****» **0 FC  
+Bois de bouleau** & **bois de chêne** \| ****Prix ****» **0 FC  
+Bois d'acacia** \| Prix ****» **0 FC  
+Bois de chêne noir** \| Prix ****» **0 FC  
+Pastèques** :  
+  - **Pastèques** \| Prix » **0 FC**  
+  - **Blocs de pastèque** \| Prix » **0 FC**  
+  - **Citrouilles** \| Prix » **0 FC**  
+**Blé** :  
+  - **Blés** \| Prix » **0 FC**  
+  - **Graines de blé** \| Prix » **0 FC**  
+**Pierres** :  
+  - **Pierres** \| Prix » **0 FC**  
+  - **Roches** \| Prix » **0 FC**  
+**Cactus** :  
+  - **Cactus** \| Prix » **0 FC**  
+  - **Cactus cuit** \| Prix » **0 FC**  
+**Boules de slime** \| Prix » **0 FC**  
+**Araignées** :  
+  - **Yeux d'araignées** \| Prix » **0 FC**  
+  - **Ficelles** \| Prix » **0 FC**  
+**Cochons** :  
+  - **Côtelettes de porc cru** \| Prix » **0 FC**  
+  - **Côtelettes de porc cuit** \| Prix » **0 FC**  
+**Glaces** \| Prix » **0 FC**  
+**Feuilles** _\(tout type\)_ \| Prix » **0 FC**  
+**Fèves de cacao** \| Prix » **0 FC**  
+**Carottes** \| Prix » **0 FC  
+Herbes aquatiques** :  
+  - **Herbes aquatiques** \| Prix » **0 FC**  
+  - **Algues** \| Prix » **0 FC**  
+  - **Algues séchées** \| Prix » **0 FC**»  
+**Bambous et cannes à sucre** :  
+  - **Cannes à sucre** \| Prix » **0 FC**  
+  - **Bambous** \| Prix » **0 FC**»  
+**Moutons** :  
+  - **Moutons crus** \| Prix » **0 FC**  
+  - **Moutons cuis** \| Prix » **0 FC**  
+**Nether** :  
+  - **Roches du nether** \| Prix » **0 FC**  
+  - **Briques du nether** \| Prix » **0 FC**  
+**Charbons** :  
+  - **Charbons de bois** \| Prix » **0 FC**  
+  - **Charbons** \| Prix » **0 FC**  
+**Bouteilles d'expérience** \| Prix » **0 FC**  
+**Pommes de terre** :  
+  - **Pommes de terre** \| Prix » **0 FC**  
+  - **Pommes de terre cuites** \| Prix » **0 FC**  
+  - **Pommes de terre empoisonnées** \| Prix » **0 FC**
+
+{% hint style="success" %}
+**Grade suivant = 600 000 FrenchCoins**
+{% endhint %}
+
+![](../.gitbook/assets/image%20%2823%29.png)
 {% endtab %}
 
 {% tab title="SkyLama" %}
+{% hint style="info" %}
+Grade **SkyLama**
+{% endhint %}
 
+**Chairs putréfiées** \| Prix » **0 FC  
+Squelettes** :  
+  ****- **Os** \| Prix » **0 FC**  
+  - **Flèches** \| Prix » **0 FC  
+Poulets** :  
+  - **Poulets crus** \| Prix » **0 FC**  
+  - **Poulets rôtis** \| ****Prix » **0 FC**  
+  - **Plumes** \| ****Prix ****» **0 FC  
+Pommes** \| ****Prix ****» **0 FC  
+Bois de sapin** & **bois d'acajou** \| ****Prix ****» **0 FC  
+Bois de bouleau** & **bois de chêne** \| ****Prix ****» **0 FC  
+Bois d'acacia** \| Prix ****» **0 FC  
+Bois de chêne noir** \| Prix ****» **0 FC  
+Pastèques** :  
+  - **Pastèques** \| Prix » **0 FC**  
+  - **Blocs de pastèque** \| Prix » **0 FC**  
+  - **Citrouilles** \| Prix » **0 FC**  
+**Blé** :  
+  - **Blés** \| Prix » **0 FC**  
+  - **Graines de blé** \| Prix » **0 FC**  
+**Pierres** :  
+  - **Pierres** \| Prix » **0 FC**  
+  - **Roches** \| Prix » **0 FC**  
+**Cactus** :  
+  - **Cactus** \| Prix » **0 FC**  
+  - **Cactus cuit** \| Prix » **0 FC**  
+**Boules de slime** \| Prix » **0 FC**  
+**Araignées** :  
+  - **Yeux d'araignées** \| Prix » **0 FC**  
+  - **Ficelles** \| Prix » **0 FC**  
+**Cochons** :  
+  - **Côtelettes de porc cru** \| Prix » **0 FC**  
+  - **Côtelettes de porc cuit** \| Prix » **0 FC**  
+**Glaces** \| Prix » **0 FC**  
+**Feuilles** _\(tout type\)_ \| Prix » **0 FC**  
+**Fèves de cacao** \| Prix » **0 FC**  
+**Carottes** \| Prix » **0 FC  
+Herbes aquatiques** :  
+  - **Herbes aquatiques** \| Prix » **0 FC**  
+  - **Algues** \| Prix » **0 FC**  
+  - **Algues séchées** \| Prix » **0 FC**»  
+**Bambous et cannes à sucre** :  
+  - **Cannes à sucre** \| Prix » **0 FC**  
+  - **Bambous** \| Prix » **0 FC**»  
+**Moutons** :  
+  - **Moutons crus** \| Prix » **0 FC**  
+  - **Moutons cuis** \| Prix » **0 FC**  
+**Nether** :  
+  - **Roches du nether** \| Prix » **0 FC**  
+  - **Briques du nether** \| Prix » **0 FC**  
+**Charbons** :  
+  - **Charbons de bois** \| Prix » **0 FC**  
+  - **Charbons** \| Prix » **0 FC**  
+**Bouteilles d'expérience** \| Prix » **0 FC**  
+**Pommes de terre** :  
+  - **Pommes de terre** \| Prix » **0 FC**  
+  - **Pommes de terre cuites** \| Prix » **0 FC**  
+  - **Pommes de terre empoisonnées** \| Prix » **0 FC**
+
+{% hint style="success" %}
+**Grade suivant = 1 000 000 FrenchCoins**
+{% endhint %}
+
+![](../.gitbook/assets/image%20%2826%29.png)
 {% endtab %}
 
 {% tab title="SkyPanda" %}
+{% hint style="info" %}
+Grade **SkyPanda**
+{% endhint %}
 
+**Chairs putréfiées** \| Prix » **0 FC  
+Squelettes** :  
+  ****- **Os** \| Prix » **0 FC**  
+  - **Flèches** \| Prix » **0 FC  
+Poulets** :  
+  - **Poulets crus** \| Prix » **0 FC**  
+  - **Poulets rôtis** \| ****Prix » **0 FC**  
+  - **Plumes** \| ****Prix ****» **0 FC  
+Pommes** \| ****Prix ****» **0 FC  
+Bois de sapin** & **bois d'acajou** \| ****Prix ****» **0 FC  
+Bois de bouleau** & **bois de chêne** \| ****Prix ****» **0 FC  
+Bois d'acacia** \| Prix ****» **0 FC  
+Bois de chêne noir** \| Prix ****» **0 FC  
+Pastèques** :  
+  - **Pastèques** \| Prix » **0 FC**  
+  - **Blocs de pastèque** \| Prix » **0 FC**  
+  - **Citrouilles** \| Prix » **0 FC**  
+**Blé** :  
+  - **Blés** \| Prix » **0 FC**  
+  - **Graines de blé** \| Prix » **0 FC**  
+**Pierres** :  
+  - **Pierres** \| Prix » **0 FC**  
+  - **Roches** \| Prix » **0 FC**  
+**Cactus** :  
+  - **Cactus** \| Prix » **0 FC**  
+  - **Cactus cuit** \| Prix » **0 FC**  
+**Boules de slime** \| Prix » **0 FC**  
+**Araignées** :  
+  - **Yeux d'araignées** \| Prix » **0 FC**  
+  - **Ficelles** \| Prix » **0 FC**  
+**Cochons** :  
+  - **Côtelettes de porc cru** \| Prix » **0 FC**  
+  - **Côtelettes de porc cuit** \| Prix » **0 FC**  
+**Glaces** \| Prix » **0 FC**  
+**Feuilles** _\(tout type\)_ \| Prix » **0 FC**  
+**Fèves de cacao** \| Prix » **0 FC**  
+**Carottes** \| Prix » **0 FC  
+Herbes aquatiques** :  
+  - **Herbes aquatiques** \| Prix » **0 FC**  
+  - **Algues** \| Prix » **0 FC**  
+  - **Algues séchées** \| Prix » **0 FC**»  
+**Bambous et cannes à sucre** :  
+  - **Cannes à sucre** \| Prix » **0 FC**  
+  - **Bambous** \| Prix » **0 FC**»  
+**Moutons** :  
+  - **Moutons crus** \| Prix » **0 FC**  
+  - **Moutons cuis** \| Prix » **0 FC**  
+**Nether** :  
+  - **Roches du nether** \| Prix » **0 FC**  
+  - **Briques du nether** \| Prix » **0 FC**  
+**Charbons** :  
+  - **Charbons de bois** \| Prix » **0 FC**  
+  - **Charbons** \| Prix » **0 FC**  
+**Bouteilles d'expérience** \| Prix » **0 FC**  
+**Pommes de terre** :  
+  - **Pommes de terre** \| Prix » **0 FC**  
+  - **Pommes de terre cuites** \| Prix » **0 FC**  
+  - **Pommes de terre empoisonnées** \| Prix » **0 FC**
+
+{% hint style="success" %}
+**Grade suivant = 2 000 000 FrenchCoins**
+{% endhint %}
+
+![](../.gitbook/assets/image%20%2818%29.png)
 {% endtab %}
 
 {% tab title="SkyWolf" %}
+{% hint style="info" %}
+Grade **SkyWolf**
+{% endhint %}
 
+**Chairs putréfiées** \| Prix » **0 FC  
+Squelettes** :  
+  ****- **Os** \| Prix » **0 FC**  
+  - **Flèches** \| Prix » **0 FC  
+Poulets** :  
+  - **Poulets crus** \| Prix » **0 FC**  
+  - **Poulets rôtis** \| ****Prix » **0 FC**  
+  - **Plumes** \| ****Prix ****» **0 FC  
+Pommes** \| ****Prix ****» **0 FC  
+Bois de sapin** & **bois d'acajou** \| ****Prix ****» **0 FC  
+Bois de bouleau** & **bois de chêne** \| ****Prix ****» **0 FC  
+Bois d'acacia** \| Prix ****» **0 FC  
+Bois de chêne noir** \| Prix ****» **0 FC  
+Pastèques** :  
+  - **Pastèques** \| Prix » **0 FC**  
+  - **Blocs de pastèque** \| Prix » **0 FC**  
+  - **Citrouilles** \| Prix » **0 FC**  
+**Blé** :  
+  - **Blés** \| Prix » **0 FC**  
+  - **Graines de blé** \| Prix » **0 FC**  
+**Pierres** :  
+  - **Pierres** \| Prix » **0 FC**  
+  - **Roches** \| Prix » **0 FC**  
+**Cactus** :  
+  - **Cactus** \| Prix » **0 FC**  
+  - **Cactus cuit** \| Prix » **0 FC**  
+**Boules de slime** \| Prix » **0 FC**  
+**Araignées** :  
+  - **Yeux d'araignées** \| Prix » **0 FC**  
+  - **Ficelles** \| Prix » **0 FC**  
+**Cochons** :  
+  - **Côtelettes de porc cru** \| Prix » **0 FC**  
+  - **Côtelettes de porc cuit** \| Prix » **0 FC**  
+**Glaces** \| Prix » **0 FC**  
+**Feuilles** _\(tout type\)_ \| Prix » **0 FC**  
+**Fèves de cacao** \| Prix » **0 FC**  
+**Carottes** \| Prix » **0 FC  
+Herbes aquatiques** :  
+  - **Herbes aquatiques** \| Prix » **0 FC**  
+  - **Algues** \| Prix » **0 FC**  
+  - **Algues séchées** \| Prix » **0 FC**»  
+**Bambous et cannes à sucre** :  
+  - **Cannes à sucre** \| Prix » **0 FC**  
+  - **Bambous** \| Prix » **0 FC**»  
+**Moutons** :  
+  - **Moutons crus** \| Prix » **0 FC**  
+  - **Moutons cuis** \| Prix » **0 FC**  
+**Nether** :  
+  - **Roches du nether** \| Prix » **0 FC**  
+  - **Briques du nether** \| Prix » **0 FC**  
+**Charbons** :  
+  - **Charbons de bois** \| Prix » **0 FC**  
+  - **Charbons** \| Prix » **0 FC**  
+**Bouteilles d'expérience** \| Prix » **0 FC**  
+**Pommes de terre** :  
+  - **Pommes de terre** \| Prix » **0 FC**  
+  - **Pommes de terre cuites** \| Prix » **0 FC**  
+  - **Pommes de terre empoisonnées** \| Prix » **0 FC**
+
+{% hint style="success" %}
+**Grade suivant = 4 000 000 FrenchCoins**
+{% endhint %}
+
+![](../.gitbook/assets/image%20%2824%29.png)
 {% endtab %}
 
 {% tab title="SkyCreeper" %}
+{% hint style="info" %}
+Grade **SkyCreeper**
+{% endhint %}
 
+**Chairs putréfiées** \| Prix » **0 FC  
+Squelettes** :  
+  ****- **Os** \| Prix » **0 FC**  
+  - **Flèches** \| Prix » **0 FC  
+Poulets** :  
+  - **Poulets crus** \| Prix » **0 FC**  
+  - **Poulets rôtis** \| ****Prix » **0 FC**  
+  - **Plumes** \| ****Prix ****» **0 FC  
+Pommes** \| ****Prix ****» **0 FC  
+Bois de sapin** & **bois d'acajou** \| ****Prix ****» **0 FC  
+Bois de bouleau** & **bois de chêne** \| ****Prix ****» **0 FC  
+Bois d'acacia** \| Prix ****» **0 FC  
+Bois de chêne noir** \| Prix ****» **0 FC  
+Pastèques** :  
+  - **Pastèques** \| Prix » **0 FC**  
+  - **Blocs de pastèque** \| Prix » **0 FC**  
+  - **Citrouilles** \| Prix » **0 FC**  
+**Blé** :  
+  - **Blés** \| Prix » **0 FC**  
+  - **Graines de blé** \| Prix » **0 FC**  
+**Pierres** :  
+  - **Pierres** \| Prix » **0 FC**  
+  - **Roches** \| Prix » **0 FC**  
+**Cactus** :  
+  - **Cactus** \| Prix » **0 FC**  
+  - **Cactus cuit** \| Prix » **0 FC**  
+**Boules de slime** \| Prix » **0 FC**  
+**Araignées** :  
+  - **Yeux d'araignées** \| Prix » **0 FC**  
+  - **Ficelles** \| Prix » **0 FC**  
+**Cochons** :  
+  - **Côtelettes de porc cru** \| Prix » **0 FC**  
+  - **Côtelettes de porc cuit** \| Prix » **0 FC**  
+**Glaces** \| Prix » **0 FC**  
+**Feuilles** _\(tout type\)_ \| Prix » **0 FC**  
+**Fèves de cacao** \| Prix » **0 FC**  
+**Carottes** \| Prix » **0 FC  
+Herbes aquatiques** :  
+  - **Herbes aquatiques** \| Prix » **0 FC**  
+  - **Algues** \| Prix » **0 FC**  
+  - **Algues séchées** \| Prix » **0 FC**»  
+**Bambous et cannes à sucre** :  
+  - **Cannes à sucre** \| Prix » **0 FC**  
+  - **Bambous** \| Prix » **0 FC**»  
+**Moutons** :  
+  - **Moutons crus** \| Prix » **0 FC**  
+  - **Moutons cuis** \| Prix » **0 FC**  
+**Nether** :  
+  - **Roches du nether** \| Prix » **0 FC**  
+  - **Briques du nether** \| Prix » **0 FC**  
+**Charbons** :  
+  - **Charbons de bois** \| Prix » **0 FC**  
+  - **Charbons** \| Prix » **0 FC**  
+**Bouteilles d'expérience** \| Prix » **0 FC**  
+**Pommes de terre** :  
+  - **Pommes de terre** \| Prix » **0 FC**  
+  - **Pommes de terre cuites** \| Prix » **0 FC**  
+  - **Pommes de terre empoisonnées** \| Prix » **0 FC**
+
+{% hint style="success" %}
+**Grade suivant = 8 000 000 FrenchCoins**
+{% endhint %}
+
+![](../.gitbook/assets/image%20%2820%29.png)
 {% endtab %}
 
 {% tab title="SkyWitch" %}
+{% hint style="info" %}
+Grade **SkyWitch**
+{% endhint %}
 
+**Chairs putréfiées** \| Prix » **0 FC  
+Squelettes** :  
+  ****- **Os** \| Prix » **0 FC**  
+  - **Flèches** \| Prix » **0 FC  
+Poulets** :  
+  - **Poulets crus** \| Prix » **0 FC**  
+  - **Poulets rôtis** \| ****Prix » **0 FC**  
+  - **Plumes** \| ****Prix ****» **0 FC  
+Pommes** \| ****Prix ****» **0 FC  
+Bois de sapin** & **bois d'acajou** \| ****Prix ****» **0 FC  
+Bois de bouleau** & **bois de chêne** \| ****Prix ****» **0 FC  
+Bois d'acacia** \| Prix ****» **0 FC  
+Bois de chêne noir** \| Prix ****» **0 FC  
+Pastèques** :  
+  - **Pastèques** \| Prix » **0 FC**  
+  - **Blocs de pastèque** \| Prix » **0 FC**  
+  - **Citrouilles** \| Prix » **0 FC**  
+**Blé** :  
+  - **Blés** \| Prix » **0 FC**  
+  - **Graines de blé** \| Prix » **0 FC**  
+**Pierres** :  
+  - **Pierres** \| Prix » **0 FC**  
+  - **Roches** \| Prix » **0 FC**  
+**Cactus** :  
+  - **Cactus** \| Prix » **0 FC**  
+  - **Cactus cuit** \| Prix » **0 FC**  
+**Boules de slime** \| Prix » **0 FC**  
+**Araignées** :  
+  - **Yeux d'araignées** \| Prix » **0 FC**  
+  - **Ficelles** \| Prix » **0 FC**  
+**Cochons** :  
+  - **Côtelettes de porc cru** \| Prix » **0 FC**  
+  - **Côtelettes de porc cuit** \| Prix » **0 FC**  
+**Glaces** \| Prix » **0 FC**  
+**Feuilles** _\(tout type\)_ \| Prix » **0 FC**  
+**Fèves de cacao** \| Prix » **0 FC**  
+**Carottes** \| Prix » **0 FC  
+Herbes aquatiques** :  
+  - **Herbes aquatiques** \| Prix » **0 FC**  
+  - **Algues** \| Prix » **0 FC**  
+  - **Algues séchées** \| Prix » **0 FC**»  
+**Bambous et cannes à sucre** :  
+  - **Cannes à sucre** \| Prix » **0 FC**  
+  - **Bambous** \| Prix » **0 FC**»  
+**Moutons** :  
+  - **Moutons crus** \| Prix » **0 FC**  
+  - **Moutons cuis** \| Prix » **0 FC**  
+**Nether** :  
+  - **Roches du nether** \| Prix » **0 FC**  
+  - **Briques du nether** \| Prix » **0 FC**  
+**Charbons** :  
+  - **Charbons de bois** \| Prix » **0 FC**  
+  - **Charbons** \| Prix » **0 FC**  
+**Bouteilles d'expérience** \| Prix » **0 FC**  
+**Pommes de terre** :  
+  - **Pommes de terre** \| Prix » **0 FC**  
+  - **Pommes de terre cuites** \| Prix » **0 FC**  
+  - **Pommes de terre empoisonnées** \| Prix » **0 FC**
+
+{% hint style="success" %}
+**Grade suivant = 15 000 000 FrenchCoins**
+{% endhint %}
+
+![](../.gitbook/assets/image%20%2828%29.png)
 {% endtab %}
 
 {% tab title="SkyGuardian" %}
+{% hint style="info" %}
+Grade **SkyGuardian**
+{% endhint %}
 
+**Chairs putréfiées** \| Prix » **0 FC  
+Squelettes** :  
+  ****- **Os** \| Prix » **0 FC**  
+  - **Flèches** \| Prix » **0 FC  
+Poulets** :  
+  - **Poulets crus** \| Prix » **0 FC**  
+  - **Poulets rôtis** \| ****Prix » **0 FC**  
+  - **Plumes** \| ****Prix ****» **0 FC  
+Pommes** \| ****Prix ****» **0 FC  
+Bois de sapin** & **bois d'acajou** \| ****Prix ****» **0 FC  
+Bois de bouleau** & **bois de chêne** \| ****Prix ****» **0 FC  
+Bois d'acacia** \| Prix ****» **0 FC  
+Bois de chêne noir** \| Prix ****» **0 FC  
+Pastèques** :  
+  - **Pastèques** \| Prix » **0 FC**  
+  - **Blocs de pastèque** \| Prix » **0 FC**  
+  - **Citrouilles** \| Prix » **0 FC**  
+**Blé** :  
+  - **Blés** \| Prix » **0 FC**  
+  - **Graines de blé** \| Prix » **0 FC**  
+**Pierres** :  
+  - **Pierres** \| Prix » **0 FC**  
+  - **Roches** \| Prix » **0 FC**  
+**Cactus** :  
+  - **Cactus** \| Prix » **0 FC**  
+  - **Cactus cuit** \| Prix » **0 FC**  
+**Boules de slime** \| Prix » **0 FC**  
+**Araignées** :  
+  - **Yeux d'araignées** \| Prix » **0 FC**  
+  - **Ficelles** \| Prix » **0 FC**  
+**Cochons** :  
+  - **Côtelettes de porc cru** \| Prix » **0 FC**  
+  - **Côtelettes de porc cuit** \| Prix » **0 FC**  
+**Glaces** \| Prix » **0 FC**  
+**Feuilles** _\(tout type\)_ \| Prix » **0 FC**  
+**Fèves de cacao** \| Prix » **0 FC**  
+**Carottes** \| Prix » **0 FC  
+Herbes aquatiques** :  
+  - **Herbes aquatiques** \| Prix » **0 FC**  
+  - **Algues** \| Prix » **0 FC**  
+  - **Algues séchées** \| Prix » **0 FC**»  
+**Bambous et cannes à sucre** :  
+  - **Cannes à sucre** \| Prix » **0 FC**  
+  - **Bambous** \| Prix » **0 FC**»  
+**Moutons** :  
+  - **Moutons crus** \| Prix » **0 FC**  
+  - **Moutons cuis** \| Prix » **0 FC**  
+**Nether** :  
+  - **Roches du nether** \| Prix » **0 FC**  
+  - **Briques du nether** \| Prix » **0 FC**  
+**Charbons** :  
+  - **Charbons de bois** \| Prix » **0 FC**  
+  - **Charbons** \| Prix » **0 FC**  
+**Bouteilles d'expérience** \| Prix » **0 FC**  
+**Pommes de terre** :  
+  - **Pommes de terre** \| Prix » **0 FC**  
+  - **Pommes de terre cuites** \| Prix » **0 FC**  
+  - **Pommes de terre empoisonnées** \| Prix » **0 FC**
+
+{% hint style="success" %}
+**Grade suivant = 30 000 000 FrenchCoins**
+{% endhint %}
+
+![](../.gitbook/assets/image%20%2822%29.png)
 {% endtab %}
 
 {% tab title="SkyBear" %}
+{% hint style="info" %}
+Grade **SkyBear**
+{% endhint %}
 
+**Chairs putréfiées** \| Prix » **0 FC  
+Squelettes** :  
+  ****- **Os** \| Prix » **0 FC**  
+  - **Flèches** \| Prix » **0 FC  
+Poulets** :  
+  - **Poulets crus** \| Prix » **0 FC**  
+  - **Poulets rôtis** \| ****Prix » **0 FC**  
+  - **Plumes** \| ****Prix ****» **0 FC  
+Pommes** \| ****Prix ****» **0 FC  
+Bois de sapin** & **bois d'acajou** \| ****Prix ****» **0 FC  
+Bois de bouleau** & **bois de chêne** \| ****Prix ****» **0 FC  
+Bois d'acacia** \| Prix ****» **0 FC  
+Bois de chêne noir** \| Prix ****» **0 FC  
+Pastèques** :  
+  - **Pastèques** \| Prix » **0 FC**  
+  - **Blocs de pastèque** \| Prix » **0 FC**  
+  - **Citrouilles** \| Prix » **0 FC**  
+**Blé** :  
+  - **Blés** \| Prix » **0 FC**  
+  - **Graines de blé** \| Prix » **0 FC**  
+**Pierres** :  
+  - **Pierres** \| Prix » **0 FC**  
+  - **Roches** \| Prix » **0 FC**  
+**Cactus** :  
+  - **Cactus** \| Prix » **0 FC**  
+  - **Cactus cuit** \| Prix » **0 FC**  
+**Boules de slime** \| Prix » **0 FC**  
+**Araignées** :  
+  - **Yeux d'araignées** \| Prix » **0 FC**  
+  - **Ficelles** \| Prix » **0 FC**  
+**Cochons** :  
+  - **Côtelettes de porc cru** \| Prix » **0 FC**  
+  - **Côtelettes de porc cuit** \| Prix » **0 FC**  
+**Glaces** \| Prix » **0 FC**  
+**Feuilles** _\(tout type\)_ \| Prix » **0 FC**  
+**Fèves de cacao** \| Prix » **0 FC**  
+**Carottes** \| Prix » **0 FC  
+Herbes aquatiques** :  
+  - **Herbes aquatiques** \| Prix » **0 FC**  
+  - **Algues** \| Prix » **0 FC**  
+  - **Algues séchées** \| Prix » **0 FC**»  
+**Bambous et cannes à sucre** :  
+  - **Cannes à sucre** \| Prix » **0 FC**  
+  - **Bambous** \| Prix » **0 FC**»  
+**Moutons** :  
+  - **Moutons crus** \| Prix » **0 FC**  
+  - **Moutons cuis** \| Prix » **0 FC**  
+**Nether** :  
+  - **Roches du nether** \| Prix » **0 FC**  
+  - **Briques du nether** \| Prix » **0 FC**  
+**Charbons** :  
+  - **Charbons de bois** \| Prix » **0 FC**  
+  - **Charbons** \| Prix » **0 FC**  
+**Bouteilles d'expérience** \| Prix » **0 FC**  
+**Pommes de terre** :  
+  - **Pommes de terre** \| Prix » **0 FC**  
+  - **Pommes de terre cuites** \| Prix » **0 FC**  
+  - **Pommes de terre empoisonnées** \| Prix » **0 FC**
+
+{% hint style="success" %}
+**Grade suivant = 60 000 000 FrenchCoins**
+{% endhint %}
+
+![](../.gitbook/assets/image%20%2825%29.png)
 {% endtab %}
 {% endtabs %}
 

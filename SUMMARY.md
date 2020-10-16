@@ -6,30 +6,30 @@
 
 ## Economie
 
+* [Monnaies](economie/les-differentes-monnaies.md)
 * [Défis](economie/defis.md)
 * [Entreprise](economie/entreprise.md)
 * [Marché public](economie/market.md)
-* [Les différentes monnaies](economie/les-differentes-monnaies.md)
 
 ## Skyblock
 
 * [Hoppers modifiés](skyblock/hoppers-modifies.md)
-* [Cultures modifiés](skyblock/cultures.md)
+* [Cultures modifiées](skyblock/cultures.md)
 * [Abilités](skyblock/abilites.md)
 * [Items améliorables](skyblock/items-ameliorables.md)
+* [Récompense journalière](skyblock/recompense-journaliere.md)
 
-## Cosmétiques
+## BS TOKEN
 
-* [Pets](cosmetiques/pets.md)
-* [Préfix](cosmetiques/prefix.md)
+* [Les Grades](bs-token/les-grades.md)
+* [Pets](bs-token/pets.md)
+* [Préfix](bs-token/prefix.md)
+* [Clefs mystères, épics & saisonniers](bs-token/coffres.md)
 
 ## Divers
 
 * [Aides version 1.16](divers/aide-1.16.md)
-* [GiveAll](divers/giveall.md)
-* [Récompense journalière](divers/recompense-journaliere.md)
-* [Marriage](divers/marriage.md)
-* [Coffres](divers/coffres.md)
 * [Comment voter](divers/comment-voter.md)
-* [Les Grades](divers/les-grades.md)
+* [GiveAll](divers/giveall.md)
+* [Mariage](divers/marriage.md)
 

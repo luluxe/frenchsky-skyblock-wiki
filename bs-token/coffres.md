@@ -1,4 +1,4 @@
-# Coffres
+# Clefs mystères, épics & saisonniers
 
 ## Beta 
 

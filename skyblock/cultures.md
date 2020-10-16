@@ -2,7 +2,7 @@
 description: Voici un descriptif des cultures modifiées.
 ---
 
-# Cultures modifiés
+# Cultures modifiées
 
 ## Informations basiques
 

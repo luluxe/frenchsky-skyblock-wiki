@@ -1,4 +1,4 @@
-# Marriage
+# Mariage
 
 ## Bientôt en cours de développement
 

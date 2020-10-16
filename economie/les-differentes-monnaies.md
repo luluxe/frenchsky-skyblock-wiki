@@ -4,7 +4,7 @@ description: >-
   leurs utilités.
 ---
 
-# Les différentes monnaies
+# Monnaies
 
 {% hint style="success" %}
 ### Vous aurez une totalité de trois monnaies différentes !

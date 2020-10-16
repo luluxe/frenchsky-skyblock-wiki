@@ -8,6 +8,8 @@ description: Voici quelques informations concernant les défis.
 ### **L'économie de FrenchSky se base sur des défis répétables !**
 {% endhint %}
 
+### Que sont les défis ?
+
 À votre arrivée sur le serveur, **vous aurez le grade débutant**. Pour **vous faire de l'argent**, quoi de mieux que **des défis répétables à l'infini** ?  
 **Accédez à vos défis via la commande** "**/d**" et **farmez les ressources qui s'y trouvent** ! Vous gagnerez **un montant d'argent à chaque bloc cassé** ou bien **à chaque mob tué**, et vous pourrez **en gagner une nouvelle fois en vendant** la ressource dans vos défis !
 
@@ -16,6 +18,8 @@ Une fois que vous avez **amassé assez d'argent**, **passez au grade supérieur*
 {% hint style="warning" %}
 #### Voici la liste des 27 premiers grades de FrenchSky, étant donné qu'ils sont d'ors et déjà découverts par de nombreux joueurs, nous vous communiquons les items qu'il est possible de farmer, avec leurs prix et leurs récompenses de passage de grade !
 {% endhint %}
+
+### Liste & prix des défis
 
 {% tabs %}
 {% tab title="Débutant" %}

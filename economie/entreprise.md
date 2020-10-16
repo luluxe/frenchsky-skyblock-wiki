@@ -4,5 +4,5 @@ description: Voici les informations sur les entreprises.
 
 # Entreprise
 
-## Bientôt
+## Bientôt en cours de développement
 

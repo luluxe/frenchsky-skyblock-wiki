@@ -1,4 +1,4 @@
 # Items améliorables
 
-## Bientôt
+## Bientôt en cours de développement
 

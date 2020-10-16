@@ -1,15 +1,15 @@
 ---
 description: >-
-  Voici le règlement TeamSpeak 3 du serveur FrenchSky. Merci d'en prendre
+  Voici le règlement TeamSpeak du serveur FrenchSky. Merci d'en prendre
   connaissance et de les respecter.
 ---
 
 # Règlement Teamspeak
 
-**Règlement TeamSpeak**  
+### **Règlement TeamSpeak**
+
   
 Voici le règlement du serveur **TeamSpeak** de **FrenchSky**, celui-ci est non exhaustif et il est aussi possible qu’il change au cours du temps. Beaucoup de ces règles relèvent seulement du bon sens, merci **d'en prendre connaissance** et de **les respecter**.  
-  
   
 L'utilisation du français est demandée dans le cadre d'une bonne communication, tous abus de langues étrangères **est interdits**. \(si la personne ne parle pas français, ce n'est pas un abus !\)  
 Le pseudo TeamSpeak doit être le même qu'en jeu \(au moins être apparent\) et ne doit pas contenir de caractères spéciaux, d'injures, de racismes ou de menaces.  

@@ -6,9 +6,9 @@
 
 ## Economie
 
-* [Les Défis](economie/defis.md)
+* [Défis](economie/defis.md)
 * [Entreprise](economie/entreprise.md)
-* [Market](economie/market.md)
+* [Marché public](economie/market.md)
 * [Les différentes monnaies](economie/les-differentes-monnaies.md)
 
 ## Skyblock

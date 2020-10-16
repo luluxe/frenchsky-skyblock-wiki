@@ -2,7 +2,7 @@
 description: Voici quelques informations concernant les défis.
 ---
 
-# Les Défis
+# Défis
 
 L'économie de FrenchSky se base sur des défis répétables.
 

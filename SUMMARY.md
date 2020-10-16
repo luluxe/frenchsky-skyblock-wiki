@@ -8,8 +8,8 @@
 
 * [Défis](economie/defis.md)
 * [Entreprise](economie/entreprise.md)
-* [Marché public](economie/market.md)
 * [Les différentes monnaies](economie/les-differentes-monnaies.md)
+* [Marché public](economie/market.md)
 
 ## Skyblock
 

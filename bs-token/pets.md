@@ -33,6 +33,6 @@ Vous pouvez **choisir le pet** que vous souhaitez faire apparaître **avec la co
 ![](../.gitbook/assets/image%20%2815%29.png)
 
 {% hint style="danger" %}
-_**Si votre pet ne veut pas apparaître, c'est sûrement parce qu'il y a un pet d'un autre joueur pas très loin ! Il vous suffit de vous éloigner un peu et de le refaire apparaître !**_
+_**Si votre pet ne veut pas apparaître, c'est sûrement parce qu'il y a le pet d'un autre joueur pas très loin ! Il vous suffit de vous éloigner un peu et de le refaire apparaître !**_
 {% endhint %}
 

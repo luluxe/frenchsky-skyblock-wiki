@@ -20,7 +20,7 @@ Rien ne vous empêchera d'**en récupérer également dans le Daily Reward** tou
 
 Vous pouvez utiliser cette monnaie **dans votre menu de défis pour passer au grade supérieur**, ou bien **pour faire du commerce avec les autres joueurs** ! Un **menu de compétence est également disponible** pour dépenser vos FrenchCoins, avec **un shop pour acheter les blocs/items** dont vous aurez besoin pour créer votre île ! **Les spawners** sont également achetables avec cette monnaie.
 
-### Les Points d'Event
+### Les Points d'Events
 
 _\(abrégés par PEvents\)_ sont **une monnaie récupérable lors d'évènements**.  
 Vous pouvez aussi **en obtenir dans le coffre épic** ou bien **dans les coffres saisonniers** disponibles au **/warp coffres**.  

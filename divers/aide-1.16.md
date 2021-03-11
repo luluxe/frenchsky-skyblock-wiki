@@ -17,9 +17,9 @@ Vous ne pourrez pas rejoindre le serveur Bêta de la V2 en 1.11.2, la version de
 
 ## Petits rappels & astuces concernant Minecraft en 1.16
 
-Vous l'aurez sans doute remarqué si vous vous êtes déjà connecté au serveur, **il vous est impossible de Ctrl + A votre message pour ensuite le Ctrl + C** _\(copier\)_, **vous devrez maintenir Ctrl + Shift et appuyer sur la flèche de gauche pour sélectionner votre message**, **puis faire Ctrl + C**.
+Vous l'aurez sans doute remarqué si vous vous êtes déjà connecté au serveur, **il vous est impossible de Ctrl + A votre message pour ensuite le Ctrl + C** _\(copier\)_, **vous devrez maintenant faire Ctrl + Q pour sélectionner l'entièreté de votre message**, **puis faire Ctrl + C**.
 
-Autre petite chose, **les touches sont réinitialisées lors du passage de Minecraft en 1.16**. Pour **ouvrir le chat avec directement** "**/**" dans le chat, **il faudra appuyer sur la touche par défaut qui est** "**!**" désormais, **ou bien configurer directement cette touche** dans les contrôles.
+Autre petite chose, **les touches sont réinitialisées lors du passage de Minecraft en 1.16**. Pour **ouvrir le chat avec directement** "**/**" dedans, **il faudra appuyer sur la touche par défaut qui est** "**!**" désormais, **ou bien configurer directement cette touche** dans les contrôles.
 
 
 
